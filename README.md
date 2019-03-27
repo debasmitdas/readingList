@@ -1,2 +1,2 @@
 # readingList
-This contains a list of publication list
+This contains a reading list of publications
